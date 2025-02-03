@@ -59,15 +59,12 @@ sidebar:
 #       link:
 
 
-# career-profile:
-  # title: Career Profile
-  # summary: |
-    # Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    # adipiscing elit. You can [download this free resume/CV template here]().
-    # Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    # penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    # Donec quam felis, ultricies nec, pellentesque eu.
-    # Second paragraph if required.
+career-profile:
+  title: Career Profile
+  summary: |
+    Junhwan Jang received the B.S. degree in Electronics Engineering in 2025 from Sogang National University, Seoul, South Korea. 
+    He is currently the M.S. candidate in Graduate School of Semiconductor Technology in 2025 from Pohang University of Science and Technology(POSTECH), Pohang, South Korea. 
+    His current research interests include AI-based Electronic Design Automation. He is working with Prof. Seokhyeong Kang in CAD & SoC Design Lab.
 education:
   title: Education
   info:
@@ -97,7 +94,7 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: intership at the DT Department of SAMSUNG foundry
+  - role: internship at the DT Department of SAMSUNG foundry
     time: 2024
     details: |
         Developed the parser for the powerplan, a component of PnR, using the Innovus tool.
