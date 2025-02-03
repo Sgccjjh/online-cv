@@ -33,18 +33,17 @@ sidebar:
   leetcode: # Please provide your LeetCode username.
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-#   languages:
-#     title: Languages
-#     info:
-#     - idiom: English
-#       level: Native
+  languages:
+    title: Languages
+    info:
+    - idiom: Korean
+      level: Native
 
-#     - idiom: French
-#       level: Professional
+    - idiom: English
+      level: Intermediate
 
-#     - idiom: Spanish
-#       level: Professional
-
+    
+    
 #   interests:
 #     title: Interests
 #     info:
@@ -240,27 +239,19 @@ projects:
 
 #       He is a great employee!
 
-# skills:
-#   title: Skills &amp; Proficiency
+skills:
+  title: Skills &amp; Proficiency
 
-#   toolset:
-#   - name: Python & Django
-#     level: 98%
+  toolset:
+  - name: Python
+    level: 70%
 
-#   - name: Javascript & jQuery
-#     level: 98%
+  - name: C & HLS
+    level: 65%
 
-#   - name: Angular
-#     level: 98%
+  - name: TCL
+    level: 35%
 
-#   - name: HTML5 & CSS
-#     level: 95%
-
-#   - name: Ruby on Rails
-#     level: 85%
-
-#   - name: Sketch & Photoshop
-#     level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
