@@ -95,35 +95,19 @@ education:
 #         - Bullet point
 #         - Bullet point
 
-# experiences:
-#   title: Experiences
-#   info:
-#   - role: Lead Developer
-#     time: 2015 - Present
-#     company: Startup Hubs, San Francisco
-#     details: |
-#       Describe your role here lorem ipsum dolor sit amet, consectetuer
-#       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#       Cum sociis natoque penatibus et magnis dis parturient montes,
-#       nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#       pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#       enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#       error sit voluptatem accusantium doloremque laudantium, totam rem
-#       aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#       architecto beatae vitae dicta sunt explicabo.
-#         - Bullet point
-#         - Bullet point
-#   - role: Senior Software Engineer
-#     time: 2014 - 2015
-#     company: Google, London
-#     details: |
-#       Describe your role here lorem ipsum dolor sit amet, consectetuer
-#       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#       Cum sociis natoque penatibus et magnis dis parturient montes,
-#       nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#       pellentesque eu, pretium quis, sem.
-#         - Bullet point
-#         - Bullet point
+experiences:
+  title: Experiences
+  info:
+  - role: intership at the DT Department of SAMSUNG foundry
+    time: 2024
+    details: |
+        Developed the parser for the powerplan, a component of PnR, using the Innovus tool.
+        
+  - role: internship at an embedded venture company
+    time: 2023
+    company: Hansono, medical ultrasound device venture company
+    details: |
+        Developed a channel data packager module for compressing and transmitting ultrasound imaging device signals
 #   - role: UI Developer
 #     time: 2012 - 2014
 #     company: Amazon, London
@@ -177,30 +161,27 @@ education:
 #       Praesent felis nibh, eleifend id eleifend id, dictum id enim.
 #       Praesent venenatis erat non augue suscipit consectetur.
 
-# projects:
-#   title: Projects
-#   intro: >
-#     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#   assignments:
-#   - title: Velocity
-#     link: "#hook"
-#     tagline: "A responsive website template designed to help startups promote, market and sell their products."
+projects:
+  title: Projects
+  assignments:
+  - title: VIT hardware accelerator using HLS 
+    tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-#   - title: DevStudio
-#     link: "#"
-#     tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: DevStudio
+    link: "#"
+    tagline: "A responsive website template designed to help web developers/designers market their services."
 
-#   - title: Tempo
-#     link: "#"
-#     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: Tempo
+    link: "#"
+    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-#   - title: Atom
-#     link: "#"
-#     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  - title: Atom
+    link: "#"
+    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-#   - title: Delta
-#     link: "#"
-#     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - title: Delta
+    link: "#"
+    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 # oss:
 #   title: OSS Contributions
@@ -219,17 +200,17 @@ education:
 #     link: "#"
 #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-# publications:
-#   title: Publications
-#   intro: |
-#     You can list your publications in this section. Lorem ipsum dolor sit
-#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#     bibendum fringilla a eu lectus.
-#   papers:
-#   - title: The Art of Computer Programming
-#     link: "#"
-#     authors: Donald E. Knuth
-#     conference: Addison-Wesley, 1968
+publications:
+  title: project
+  intro: |
+    You can list your publications in this section. Lorem ipsum dolor sit
+    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    bibendum fringilla a eu lectus.
+  papers:
+  - title: The Art of Computer Programming
+    link: "#"
+    authors: Donald E. Knuth
+    conference: Addison-Wesley, 1968
 
 #   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #     link: "#"
